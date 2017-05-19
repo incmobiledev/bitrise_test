@@ -14,6 +14,7 @@
 		C0968B2F1ECF29A500775046 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0968B2D1ECF29A500775046 /* LaunchScreen.storyboard */; };
 		C0968B3A1ECF29A500775046 /* bitrise_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0968B391ECF29A500775046 /* bitrise_testTests.swift */; };
 		C0968B451ECF29A500775046 /* bitrise_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0968B441ECF29A500775046 /* bitrise_testUITests.swift */; };
+		C0968B531ECF650300775046 /* images in Resources */ = {isa = PBXBuildFile; fileRef = C0968B521ECF650300775046 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C0968B401ECF29A500775046 /* bitrise_testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bitrise_testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0968B441ECF29A500775046 /* bitrise_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bitrise_testUITests.swift; sourceTree = "<group>"; };
 		C0968B461ECF29A500775046 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0968B521ECF650300775046 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				C0968B231ECF29A500775046 /* bitrise_test */,
+				C0968B521ECF650300775046 /* images */,
 				C0968B381ECF29A500775046 /* bitrise_testTests */,
 				C0968B431ECF29A500775046 /* bitrise_testUITests */,
 				C0968B221ECF29A500775046 /* Products */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0968B531ECF650300775046 /* images in Resources */,
 				C0968B2F1ECF29A500775046 /* LaunchScreen.storyboard in Resources */,
 				C0968B2C1ECF29A500775046 /* Assets.xcassets in Resources */,
 				C0968B2A1ECF29A500775046 /* Main.storyboard in Resources */,

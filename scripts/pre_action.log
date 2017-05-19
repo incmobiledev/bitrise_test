@@ -1,0 +1,9 @@
+
+Using Python version: 2.7.10 (default, Feb  6 2017, 23:53:20) 
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)]
+Traceback (most recent call last):
+  File "/Users/jgresham/ios-workspace/build_server_poc/bitrise_test/scripts/test_script.py", line 9, in <module>
+    config_file = os.environ['TARGET_CONFIG']
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/UserDict.py", line 23, in __getitem__
+    raise KeyError(key)
+KeyError: 'TARGET_CONFIG'
