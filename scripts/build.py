@@ -22,4 +22,4 @@ args += '-exportPath ' + build_dir + ' '
 args += '-exportOptionsPlist ' + export_plist + ' '
 os.system('xcodebuild ' + args)
 
-os.system('mv ' + build_dir + '/*.ipa BitriseTest.ipa')
+os.system('mv ' + build_dir + '/*.ipa ' + build_dir + '/BitriseTest.ipa')
