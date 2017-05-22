@@ -8,7 +8,7 @@ export_plist = './configs/Ad-Hoc.plist'
 
 args = ''
 args += '-project bitrise_test.xcodeproj '
-args += '-scheme Release '
+args += '-scheme Normal '
 args += '-configuration release '
 args += '-archivePath ./build/Archive '
 args += 'archive '
