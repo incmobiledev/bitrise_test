@@ -5,7 +5,7 @@
 	<key>teamID</key>
 	<string>JBK22NK46A</string>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
 	<key>uploadSymbols</key>
 	<true/>
 	<key>uploadBitcode</key>
